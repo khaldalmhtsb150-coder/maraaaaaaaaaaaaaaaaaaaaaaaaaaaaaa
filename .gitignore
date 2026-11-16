@@ -1,0 +1,8 @@
+node_modules/
+.env
+.venv/
+.pythonlibs/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+npm-debug.log*
